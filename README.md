@@ -6,7 +6,7 @@
 
 ---
 
-I am a Computer Science professional transitioning from enterprise software consulting into advanced Artificial Intelligence. Currently pursuing my M.Tech with a dedicated focus on medical imaging deep learning frameworks, I combine rigorous academic research with practical, industry-tested engineering skills.
+I am a Computer Science professional whose journey began in software development before moving into enterprise software consulting, and I am now transitioning into advanced Artificial Intelligence. Currently pursuing my M.Tech with a dedicated focus on medical imaging deep learning frameworks, I combine rigorous academic research with practical, industry-tested engineering skills.
 
 ### 🔭 Current Work & Research
 - **Medical Imaging Deep Learning:** Developing an explainable, comparative deep-learning framework for 3D MRI brain tumor segmentation utilizing 3D U-Net architectures. 
@@ -15,6 +15,7 @@ I am a Computer Science professional transitioning from enterprise software cons
 
 ### 💼 Professional Background
 - **Associate Functional Consultant @ ADP (2 Years):** Specialized in enterprise Workforce Management software solutions, specifically configuring and managing ADP Enterprise eTime (OEM version of Kronos Workforce Central).
+- **Early Career:** Background in core software development before transitioning into functional consulting.
 - **Reporting & Database Engineering:** Extensively utilized BIRT for generating specialized reports within WFM systems, supported by optimized database query engineering in MySQL and Oracle.
 
 ---
@@ -46,16 +47,11 @@ I am a Computer Science professional transitioning from enterprise software cons
 
 ---
 
-### 📈 GitHub Analytics
+### 📓 Beyond the Screen: My ML Diary
+I have a rather unique hobby when it comes to my machine learning workflows: I maintain a detailed, handwritten training diary. Whether I am fine-tuning a 3D U-Net or experimenting with a new computer vision architecture, I meticulously log model weights, hyperparameter adjustments, and epoch-by-epoch training metrics. It helps me stay grounded in the core math behind the frameworks and trace the exact evolution of my models over time!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahaSL&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahaSL&theme=radical" height="150" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahaSL&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 📁 Live Projects
+<img src="https://img.shields.io/github/public-repos/lahaSL?style=for-the-badge&logo=github&color=0e75b6" alt="Total Public Repositories" />
 
 ---
 
