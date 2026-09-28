@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Sharat Laha! 👋</h1>
   <h3>Data Science & AI Specialist | Deep Learning Researcher | Former Enterprise Consultant</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lahaSL&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -49,12 +49,12 @@ I am a Computer Science professional transitioning from enterprise software cons
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lahaSL&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahaSL&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahaSL&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
