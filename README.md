@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Sharat Laha! 👋</h1>
-  <h3>Machine Learning & AI Specialist | Deep Learning Researcher | Former Enterprise Consultant</h3>
+  <h3>Machine Learning & AI Specialist | Deep Learning Researcher | Ex-Software Engineer, Ex-Consultant @ADP</h3>
   <img src="https://komarev.com/ghpvc/?username=lahaSL&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
