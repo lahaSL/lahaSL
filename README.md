@@ -14,8 +14,8 @@ I am a IT professional whose journey began in software development before moving
 - **Academic Focus:** M.Tech in Computer Science and Engineering (Data Science & AI) at Lovely Professional University.
 
 ### 💼 Professional Background
-- **Associate Functional Consultant @ ADP (2 Years):** Specialized in enterprise Workforce Management software solutions, specifically configuring and managing ADP Enterprise eTime (OEM version of Kronos Workforce Central).
-- **Early Career:** Background in core software development before transitioning into functional consulting.
+- **Consultant @ ADP (1 Year):** Specialized in enterprise Workforce Management software solutions, specifically configuring and managing ADP Enterprise eTime (OEM version of Kronos Workforce Central).
+- **Software Engineer (Early Career) @ADP (1 Year):** Background in core software development before transitioning into technical consulting.
 - **Reporting & Database Engineering:** Extensively utilized BIRT for generating specialized reports within WFM systems, supported by optimized database query engineering in MySQL and Oracle.
 
 ---
