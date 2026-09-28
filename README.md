@@ -50,13 +50,16 @@ I am a IT professional whose journey began in software development before moving
 ### 📓 Beyond the Screen: My ML Diary
 I have a rather unique hobby when it comes to my machine learning workflows: I maintain a detailed, handwritten training diary. Whether I am fine-tuning a 3D U-Net or experimenting with a new computer vision architecture, I meticulously log model weights, hyperparameter adjustments, and epoch-by-epoch training metrics. It helps me stay grounded in the core math behind the frameworks and trace the exact evolution of my models over time!
 
-### 📁 Live Projects
-<img src="https://img.shields.io/github/public-repos/lahaSL?style=for-the-badge&logo=github&color=0e75b6" alt="Total Public Repositories" />
+### ⚡ Off-Duty & Coding Fuel
+When I'm away from the Linux terminal or waiting for my model epochs to finish, here's what keeps me going:
+- 🎧 **On Repeat:** Looping *The Nights* by Avicii for that extra coding motivation.
+- 📺 **Watchlist:** Catching up on *The Boys* or *Mushoku Tensei*.
+- 🐧 **Meme Culture:** Always down for a good laugh with the "Gugugaga" penguin and Doro memes.
 
 ---
 
 <div align="center">
   📫 <b>Let's connect:</b> 
-  <a href="mailto:YOUR_EMAIL@example.com">Email Me</a> | 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="mailto:sharatlaha1999@gmail.com">Email Me</a> | 
+  <a href="https://linkedin.com/in/sharatsl">LinkedIn</a>
 </div>
