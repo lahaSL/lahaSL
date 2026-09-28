@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Hi there, I'm Sharat Laha! 👋</h1>
-  <h3>Data Science & AI Specialist | Deep Learning Researcher | Former Enterprise Consultant</h3>
+  <h3>Machine Learning & AI Specialist | Deep Learning Researcher | Former Enterprise Consultant</h3>
   <img src="https://komarev.com/ghpvc/?username=lahaSL&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-I am a Computer Science professional whose journey began in software development before moving into enterprise software consulting, and I am now transitioning into advanced Artificial Intelligence. Currently pursuing my M.Tech with a dedicated focus on medical imaging deep learning frameworks, I combine rigorous academic research with practical, industry-tested engineering skills.
+I am a IT professional whose journey began in software development before moving into enterprise software consulting, and I am now transitioning into advanced Artificial Intelligence. Currently pursuing my M.Tech with a dedicated focus on medical imaging deep learning frameworks, I combine rigorous academic research with practical, industry-tested engineering skills.
 
 ### 🔭 Current Work & Research
 - **Medical Imaging Deep Learning:** Developing an explainable, comparative deep-learning framework for 3D MRI brain tumor segmentation utilizing 3D U-Net architectures. 
